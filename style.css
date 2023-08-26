@@ -61,7 +61,7 @@ body {
 }
 
 .github:hover {
-    scale: 1.1;
+    scale: 1.01;
 }
 
 .linkedin {
@@ -73,7 +73,7 @@ body {
 }
 
 .linkedin:hover {
-    scale: 1.1;
+    scale: 1.01;
 }
 
 .twitter {
@@ -86,7 +86,7 @@ body {
 }
 
 .twitter:hover {
-    scale: 1.1;
+    scale: 1.01;
 }
 
 .profile {
@@ -98,7 +98,7 @@ body {
 }
 
 .profile:hover {
-    scale: 1.2;
+    scale: 1.01;
 }
 
 img {
